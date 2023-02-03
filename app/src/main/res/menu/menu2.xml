@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="">
+        <menu>
+            <item
+                android:id="@+id/menu_1"
+                android:icon="@drawable/iconuser"
+                android:title="Perfil"/>
+            <item
+                android:id="@+id/menu_2"
+                android:icon="@drawable/icontemas"
+                android:title="Temas"/>
+            <item
+                android:id="@+id/menu_3"
+                android:icon="@drawable/iconguardados"
+                android:title="Elementos guardados"/>
+            <item
+                android:id="@+id/menu_4"
+                android:icon="@drawable/iconlista"
+                android:title="Listas"/>
+            <item
+                android:id="@+id/menu_5"
+                android:icon="@drawable/iconcirculo"
+                android:title="Circulo de Twitter"/>
+
+        </menu>
+    </item>
+</menu>
+
